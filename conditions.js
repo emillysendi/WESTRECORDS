@@ -32,4 +32,4 @@ case "Sunday":
     break    
    default:
        console.log("NOT A DAY OF THE WEEK")
-}
+}=
